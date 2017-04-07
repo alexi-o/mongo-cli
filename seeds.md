@@ -1,4 +1,4 @@
-## Seeds
+`## Seeds
 
 To create and seed the database open up mongo with:
 ```
